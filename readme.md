@@ -1,0 +1,2 @@
+Esse programa vai pedir que o usuário escreva o NOME, IDADE e SEXO de 4 pessoas diferentes. Interagindo um pouco no início e informando o que deve ser feito.
+No final o programa vai mostrar 3 informações dependendo do que o usuário digitou.
